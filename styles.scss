@@ -1,0 +1,41 @@
+
+
+
+body{
+     background-color: red;
+}
+$primary-color:blue;
+
+p{
+    color:$primary-color;
+}
+
+span{
+    color: $primary-color;
+}
+
+a{
+    color: $primary-color;
+}
+
+h1{
+    color: aqua;
+    font-size: 50px;
+    font-family: arial;
+
+}
+h2{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: arial;
+}
+h3{
+
+    font-family: arial;
+    font-size: 10px;
+    color: aquamarine;
+}
+h4{
+    background-color: chartreuse;
+}
+

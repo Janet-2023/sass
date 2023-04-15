@@ -1,0 +1,39 @@
+body {
+  background-color: red;
+}
+
+p {
+  color: rgb(106, 106, 109);
+}
+
+span {
+  color: blue;
+}
+
+a {
+  color: blue;
+}
+
+h1 {
+  color: aqua;
+  font-size: 50px;
+  font-family: arial;
+}
+
+h2 {
+  color: blueviolet;
+  font-size: 30px;
+  font-family: arial;
+}
+
+h3 {
+  font-family: arial;
+  font-size: 10px;
+  color: aquamarine;
+}
+
+h4 {
+  background-color: chartreuse;
+
+  
+}/*# sourceMappingURL=styles.css.map */
